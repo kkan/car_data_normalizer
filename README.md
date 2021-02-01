@@ -19,4 +19,4 @@ Please complete the `normalize_data` function below to make the examples pass. F
 Data was found at Ebay (https://pages.ebay.com/motors/compatibility/download.html) and imported to SQLite database (`prepare_database.rb`). Database added to git repository, cause it takes some time to populate it.
 
 ## Code
-`normalize_data` function is completed.
+`normalize_data` function is completed (`normalize_data.rb`).
